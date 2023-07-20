@@ -1,0 +1,136 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}.logo {
+
+width: 300px;
+display: block;
+margin: 20px auto;
+
+
+}
+
+main {
+
+width: 375px;
+background: #030303;
+border-radius: 20px;
+margin: 0 auto 40px;
+padding: 44px 24px 23px;
+
+
+}
+
+label {
+
+color: #c7821b;
+font-weight: 400;
+font-size: 14px;
+
+}
+
+select,input {
+
+background: #9c9c9c;
+border: 1px solid #333131;
+border-radius: 4px;
+height: 48px;
+width: 100%;
+margin-bottom: 24px;
+appearance: none;
+padding-left: 18px;
+font-weight: 700;
+font-size: 17px;
+color: #000000;
+cursor: pointer;
+
+
+}
+
+button {
+
+background: #a7690d;
+border-radius: 5px;
+width: 100%;
+border: none;
+height: 48px;
+color: #fafafa;
+font-weight: 700;
+font-size: 18px;
+cursor: pointer;
+
+
+}
+
+section {
+
+border: 4px solid #fc8600;
+border-radius: 100px;
+margin-top: 50px;
+padding: 20px;
+
+display: flex;
+flex-direction: column;
+align-items: center;
+background:#969494;
+
+
+
+
+}
+
+.arrow-img {
+
+width: 120px;
+height: 100px;
+margin: 25px;
+
+}
+
+.currency-box {
+
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 4px;
+
+
+}
+
+.currency {
+
+    color:#000000;
+    font-size: 14px;
+    
+
+}
+
+.currency-value, .currency-value-to-convert {
+
+color: #050505;
+font-weight: 700;
+font-size: 20px;
+
+
+}
+
+.america {
+
+width: 150px;
+height: 100px;
+margin: 20px;
+
+}
+
+.brasil-logo {
+
+width: 120px;
+height: 96px;
+margin: 20px;
+
+
+}
